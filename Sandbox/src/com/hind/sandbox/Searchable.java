@@ -19,7 +19,7 @@ public class Searchable {
 		mapforSearch.put((Integer)112,"bar");
 		mapforSearch.put((Integer)121,"bat");
 		mapforSearch.put((Integer)122,"baz");
-		inputVal = x;
+		inputVal =  x;
 	}
 	
 

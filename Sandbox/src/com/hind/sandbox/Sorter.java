@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * @author hindga
+ * @author HIND
  * "Sorter" sorts an input consisting of strings and numbers both. 
  */
 public class Sorter{

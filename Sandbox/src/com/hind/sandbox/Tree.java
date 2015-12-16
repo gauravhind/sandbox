@@ -142,7 +142,7 @@ public class Tree{
 		}
 		if(result == 2){
 			System.out.println("Node with value " + root.data + 
-						" is the lowest common Ancestor of " + a + " and " + b);
+						" is the  lowest common Ancestor of " + a + " and " + b);
 		}
 		return result;		
 	}

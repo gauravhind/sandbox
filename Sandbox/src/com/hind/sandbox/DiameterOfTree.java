@@ -7,7 +7,7 @@ public class DiameterOfTree {
 
 	}
 
-	/* Write your custom functions here */
+	/** Write your custom functions here */
 	/*public static int diameterOfTree(Node root) {        
 	    if (root == null)
 	        return 0;
@@ -24,6 +24,6 @@ public class DiameterOfTree {
 	        return 0;
 
 	    return Math.max(getHeight(root.left), getHeight(root.right)) + 1;
-	}*/
+	}**/
 	
 }

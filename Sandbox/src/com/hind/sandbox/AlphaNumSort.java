@@ -31,7 +31,7 @@ public class AlphaNumSort {
 	        str = sc.nextLine();
 	        if(str!=null){
 	        	AlphaNumSort alpha = new  AlphaNumSort(str);
-	        	//example string: "NewYork 5 Atlanta Texas 2 Delhi Mumbai London 4 Frankfurt"
+	        	//example string: "NewYork 5 in Atlanta Texas 2 Delhi Mumbai London 4 Frankfurt"
 	    		String sortedAlpha = alpha.doAlphaNumSort();
 	    		System.out.println("Before Sorting[" + alpha.getinputString() +"]");
 	    		System.out.println("After Sorting" + sortedAlpha);

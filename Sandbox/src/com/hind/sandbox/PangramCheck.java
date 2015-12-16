@@ -22,7 +22,7 @@ public class PangramCheck {
 	}
 	
 	public static void main(String[] args){
-		String str = "A quick bro foz jumps over the dog lazy";
-		getMissingLetters(str);
+		String string = "A quick bro foz jumps over the dog lazy";
+		getMissingLetters(string);
 	}
 }

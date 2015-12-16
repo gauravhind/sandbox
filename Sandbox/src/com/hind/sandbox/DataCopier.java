@@ -29,7 +29,7 @@ public class DataCopier {
 		DataCopier copier = new DataCopier();
 		Map<Integer, ArrayList<Integer>> dataSets = new HashMap<Integer, ArrayList<Integer>>();
 		BufferedReader bufferRead = new BufferedReader(new InputStreamReader(System.in));
-		/*Create a map to store the mapping of which data set is present in which data centers.*/ 
+		/*Create a map to store mapping of which data set is present in which data centers.*/ 
 		/*Key = DataSetId, Value = List of DataCenters where the DataSetId is present */
 		copier.readStandardInput(bufferRead, dataSets);
 		

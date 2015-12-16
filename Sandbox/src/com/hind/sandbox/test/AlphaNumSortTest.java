@@ -13,6 +13,7 @@ public class AlphaNumSortTest {
 		String test = "7";
 		String sortedValue = "[7]";
 		AlphaNumSort alpha = new AlphaNumSort(test);
+		
 		assertEquals(sortedValue,alpha.doAlphaNumSort());
 	}
 	

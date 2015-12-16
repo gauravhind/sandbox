@@ -22,7 +22,7 @@ public class Prime {
             }
         }
         String s = primes.toString().replace("[", "").replace("]", "");
-        System.out.println("The number of prime is: " + primes.size() + ", and they are: " + s);
+        System.out.println("The number of prime is : " + primes.size() + ", and they are: " + s);
     }
 	
 	public static boolean isPrime(int number){

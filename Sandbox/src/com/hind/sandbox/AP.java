@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Sample Input
 5
-1 3 5 9 11
+1 3 5 9 11 
 Sample Output
 7
 */

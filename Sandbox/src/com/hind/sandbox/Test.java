@@ -19,7 +19,7 @@ public class Test {
         w[5]="bdca";
         
 		sortArrayDesc(w);
-        List listofStrings = new ArrayList <String>();
+        ArrayList<String> listofStrings = new ArrayList <String>();
         for (int i = 0; i < w.length; i++) {
             listofStrings.add(w[i]);
         }
